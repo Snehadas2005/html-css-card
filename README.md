@@ -2,7 +2,9 @@
 
 A sleek, modern profile card built with **HTML5** and **CSS3**, featuring glassmorphism, smooth animations, and responsive design.
 
-## 🖼️ Image
+## 🖼️ Image & Live Demo
+
+![Demo](https://html-css-profile-card.netlify.app/)
 
 ![Image](https://github.com/user-attachments/assets/f5cde8ed-ca39-40cc-9ab5-da75dbd71fdd)
 
